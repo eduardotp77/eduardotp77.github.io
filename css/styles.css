@@ -30,4 +30,11 @@ li {
   list-style-type: none;
 }
 
+.bg-color-menu {
+  background-color: #110A6C;
+}
+.bg-color-menu > li > span {
+  color: white;
+}
+
 /*# sourceMappingURL=styles.css.map */

@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/eduardotp77/web.github.io/issues"
   },
-  "homepage": "https://github.com/eduardotp77/web.github.io#readme"
+  "homepage": "https://github.com/eduardotp77/web.github.io#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
