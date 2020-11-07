@@ -1,4 +1,2 @@
-# eduardotp77.github.io
-Lanzando paginas en desarrollo
-
-para verlo:  https://eduardotp77.github.io
+# web.github.io
+Web de prueba. aprendiendo a lanzar paginas staticas con pages.github.com

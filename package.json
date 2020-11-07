@@ -1,0 +1,23 @@
+{
+  "name": "web.github.io",
+  "version": "1.0.0",
+  "description": "Aprendiendo a publicar paginas en github pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardotp77/web.github.io.git"
+  },
+  "keywords": [
+    "github",
+    "pages"
+  ],
+  "author": "Eduardo Tobacia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardotp77/web.github.io/issues"
+  },
+  "homepage": "https://github.com/eduardotp77/web.github.io#readme"
+}
